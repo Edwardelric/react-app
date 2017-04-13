@@ -1,0 +1,8 @@
+@import './reset/_reset.scss';
+body{
+  display:flex;
+  .bg{
+    background:url('../images/common/1.jpg');
+    background-size:cover;
+  }
+}
